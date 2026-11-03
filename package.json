@@ -1,0 +1,17 @@
+{
+  "name": "ai-foundation",
+  "version": "1.0.0",
+  "description": "Trigger.dev background jobs for ai-foundation.",
+  "private": true,
+  "scripts": {},
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@trigger.dev/sdk": "4.8.3"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "4.8.3",
+    "@types/node": "^26.6.6",
+    "typescript": "^5.9.3"
+  }
+}
